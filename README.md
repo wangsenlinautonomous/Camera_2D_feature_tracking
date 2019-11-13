@@ -43,12 +43,6 @@ TASK MP.9
 
 
 
-#### Neighborhood size
-
-* SHITOMASI -- 4
-* HARRIS -- 6
-* FAST -- 7
-
 
 Condering accuracy & Speed, my recommendations are:
 
