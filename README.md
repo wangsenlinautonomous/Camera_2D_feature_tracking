@@ -27,23 +27,17 @@
 TASK MP.7
 Your seventh task is to count the number of keypoints on the preceding vehicle for all 10 images and take note of the distribution of their neighborhood size. Do this for all the detectors you have implemented.
 
-<img src="https://user-images.githubusercontent.com/40875720/68811131-db334a00-06aa-11ea-8353-3ab48b83f022.png" width="600">
-
-![result](https://user-images.githubusercontent.com/40875720/68811543-e0dd5f80-06ab-11ea-963b-cd903786f8b0.PNG)
-
+<img src="https://user-images.githubusercontent.com/40875720/68811543-e0dd5f80-06ab-11ea-963b-cd903786f8b0.PNG" width="600">
 
 
 TASK MP.8
 Your eighth task is to count the number of matched keypoints for all 10 images using all possible combinations of detectors and descriptors. In the matching step, use the BF approach with the descriptor distance ratio set to 0.8.
 
-<img src="https://user-images.githubusercontent.com/40875720/68811136-dec6d100-06aa-11ea-9b2a-e6e1f87b9dce.png" width="600">
-
-<img src="https://user-images.githubusercontent.com/40875720/68811543-e0dd5f80-06ab-11ea-963b-cd903786f8b0.PNG" width="600">
-
+<img src="https://user-images.githubusercontent.com/40875720/68811136-dec6d100-06aa-11ea-9b2a-e6e1f87b9dce.PNG" width="600">
 
 TASK MP.9
 
-<img src="https://user-images.githubusercontent.com/40875720/68811139-e1292b00-06aa-11ea-8181-f8cf56e1c146.png" width="600">
+<img src="https://user-images.githubusercontent.com/40875720/68811139-e1292b00-06aa-11ea-8181-f8cf56e1c146.PNG" width="600">
 
 
 
